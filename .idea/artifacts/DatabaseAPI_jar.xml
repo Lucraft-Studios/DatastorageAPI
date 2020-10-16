@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="DatabaseAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DatabaseAPI_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DatabaseAPI.jar">
+        <element id="module-output" name="DatabaseAPI" />
+      </element>
+      <element id="library" level="project" name="gson-2.8.6" />
+    </root>
+  </artifact>
+</component>
